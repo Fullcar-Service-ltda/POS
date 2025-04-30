@@ -10,7 +10,6 @@ Library: D:\UnityProjects\FullCar\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst
 --linker-options=PdbAltPath="FullCar_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\UnityProjects\FullCar\Temp\Burst
---debug=Full
 --key-folder=D:/UnityEngine/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\UnityProjects\FullCar\Library\Burst
 --output=D:\UnityProjects\FullCar\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -35,7 +34,6 @@ Library: D:\UnityProjects\FullCar\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst
 --linker-options=PdbAltPath="FullCar_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\UnityProjects\FullCar\Temp\Burst
---debug=Full
 --key-folder=D:/UnityEngine/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\UnityProjects\FullCar\Library\Burst
 --output=D:\UnityProjects\FullCar\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -62,7 +60,6 @@ Library: D:\UnityProjects\FullCar\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst
 --linker-options=PdbAltPath="FullCar_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\UnityProjects\FullCar\Temp\Burst
---debug=Full
 --key-folder=D:/UnityEngine/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\UnityProjects\FullCar\Library\Burst
 --output=D:\UnityProjects\FullCar\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -83,7 +80,6 @@ Library: D:\UnityProjects\FullCar\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst
 --linker-options=PdbAltPath="FullCar_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\UnityProjects\FullCar\Temp\Burst
---debug=Full
 --key-folder=D:/UnityEngine/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\UnityProjects\FullCar\Library\Burst
 --output=D:\UnityProjects\FullCar\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -102,7 +98,6 @@ Library: D:\UnityProjects\FullCar\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst
 --linker-options=PdbAltPath="FullCar_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\UnityProjects\FullCar\Temp\Burst
---debug=Full
 --key-folder=D:/UnityEngine/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\UnityProjects\FullCar\Library\Burst
 --output=D:\UnityProjects\FullCar\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -219,7 +214,6 @@ Library: D:\UnityProjects\FullCar\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst
 --linker-options=PdbAltPath="FullCar_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\UnityProjects\FullCar\Temp\Burst
---debug=Full
 --key-folder=D:/UnityEngine/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\UnityProjects\FullCar\Library\Burst
 --output=D:\UnityProjects\FullCar\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
